@@ -1,4 +1,4 @@
-beautifulsoup
+bs4
+urllib3
 scrapy
 pandas
-json
